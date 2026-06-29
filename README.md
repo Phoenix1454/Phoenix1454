@@ -49,10 +49,11 @@ Over the past two years I've shipped LLM-powered applications from document inte
 
 | Project | Description | Stack |
 |---|---|---|
+| [Multi-Agent Research Assistant](https://github.com/Phoenix1454/Multi-Agent-Research-Assistant-Langgraph) | Autonomous research pipeline — Supervisor, Researcher, Writer & Critiquer agents collaborate to draft and refine reports | LangGraph, LangChain, Streamlit |
+| [Startup Idea Validator](https://github.com/Phoenix1454/Startup-Validation) ([live demo](https://phoenix1454-startup-validation-srcapp-wjnche.streamlit.app)) | Multi-agent system that validates startup ideas via market, sentiment & feasibility research | LangGraph, Firecrawl, Streamlit |
+| [Course Platform](https://github.com/Phoenix1454/project) | Full-stack course-selling platform with payments and a React frontend | FastAPI, React, SQL |
 | [AI Revision Platform](https://github.com/Phoenix1454/AI-Revision-Platform) | AI-powered study tool that generates quizzes and summaries from uploaded documents | Python, LLM, RAG |
-| [Startup Idea Validator](https://lnkd.in/gbJhddsc) | Multi-agent system that validates startup ideas using market research & AI analysis | LangGraph, FastAPI, Streamlit |
-| [LangGraph Agents](https://github.com/Phoenix1454) | Conditional reasoning agents with branching logic and tool-use pipelines | LangGraph, Python |
-| [Data Warehousing](https://github.com/Phoenix1454/Data_warehousing_coursework_2) | End-to-end data pipeline and warehouse implementation | SQL, Jupyter |
+| [AI Agents & RAG](https://github.com/Phoenix1454/AI_Agents_RAG) | Agent pattern implementations — RAG, ReAct, memory agents, Neo4j-backed agent | LangChain, Neo4j |
 
 ---
 
