@@ -15,10 +15,8 @@ MSc Data Science @ University of Westminster. Based in London. Currently shippin
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phoenix1454&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix1454&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
+![Phoenix1454's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoenix1454&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenix1454&layout=compact&theme=dark&hide_border=true)
 
 ---
 
